@@ -6,5 +6,8 @@ public class HelloWorld {
         System.out.println("Another new feature");
         System.out.println("Довалена новая функциональсть");
 
+
+
+        //Еще одна новая функция
     }
 }
